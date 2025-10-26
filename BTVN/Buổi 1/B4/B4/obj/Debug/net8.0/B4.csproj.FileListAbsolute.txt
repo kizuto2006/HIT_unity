@@ -1,0 +1,15 @@
+D:\Repo github\HIT_unity\BTVN\Buổi 1\B4\B4\bin\Debug\net8.0\B4.exe
+D:\Repo github\HIT_unity\BTVN\Buổi 1\B4\B4\bin\Debug\net8.0\B4.deps.json
+D:\Repo github\HIT_unity\BTVN\Buổi 1\B4\B4\bin\Debug\net8.0\B4.runtimeconfig.json
+D:\Repo github\HIT_unity\BTVN\Buổi 1\B4\B4\bin\Debug\net8.0\B4.dll
+D:\Repo github\HIT_unity\BTVN\Buổi 1\B4\B4\bin\Debug\net8.0\B4.pdb
+D:\Repo github\HIT_unity\BTVN\Buổi 1\B4\B4\obj\Debug\net8.0\B4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo github\HIT_unity\BTVN\Buổi 1\B4\B4\obj\Debug\net8.0\B4.AssemblyInfoInputs.cache
+D:\Repo github\HIT_unity\BTVN\Buổi 1\B4\B4\obj\Debug\net8.0\B4.AssemblyInfo.cs
+D:\Repo github\HIT_unity\BTVN\Buổi 1\B4\B4\obj\Debug\net8.0\B4.csproj.CoreCompileInputs.cache
+D:\Repo github\HIT_unity\BTVN\Buổi 1\B4\B4\obj\Debug\net8.0\B4.sourcelink.json
+D:\Repo github\HIT_unity\BTVN\Buổi 1\B4\B4\obj\Debug\net8.0\B4.dll
+D:\Repo github\HIT_unity\BTVN\Buổi 1\B4\B4\obj\Debug\net8.0\refint\B4.dll
+D:\Repo github\HIT_unity\BTVN\Buổi 1\B4\B4\obj\Debug\net8.0\B4.pdb
+D:\Repo github\HIT_unity\BTVN\Buổi 1\B4\B4\obj\Debug\net8.0\B4.genruntimeconfig.cache
+D:\Repo github\HIT_unity\BTVN\Buổi 1\B4\B4\obj\Debug\net8.0\ref\B4.dll
