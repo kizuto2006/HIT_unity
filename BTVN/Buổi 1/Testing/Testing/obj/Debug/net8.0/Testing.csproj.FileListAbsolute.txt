@@ -1,0 +1,15 @@
+D:\Repo github\HIT_unity\BTVN\Buổi 1\Testing\Testing\obj\Debug\net8.0\Testing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo github\HIT_unity\BTVN\Buổi 1\Testing\Testing\obj\Debug\net8.0\Testing.AssemblyInfoInputs.cache
+D:\Repo github\HIT_unity\BTVN\Buổi 1\Testing\Testing\obj\Debug\net8.0\Testing.AssemblyInfo.cs
+D:\Repo github\HIT_unity\BTVN\Buổi 1\Testing\Testing\obj\Debug\net8.0\Testing.csproj.CoreCompileInputs.cache
+D:\Repo github\HIT_unity\BTVN\Buổi 1\Testing\Testing\obj\Debug\net8.0\Testing.sourcelink.json
+D:\Repo github\HIT_unity\BTVN\Buổi 1\Testing\Testing\bin\Debug\net8.0\Testing.exe
+D:\Repo github\HIT_unity\BTVN\Buổi 1\Testing\Testing\bin\Debug\net8.0\Testing.deps.json
+D:\Repo github\HIT_unity\BTVN\Buổi 1\Testing\Testing\bin\Debug\net8.0\Testing.runtimeconfig.json
+D:\Repo github\HIT_unity\BTVN\Buổi 1\Testing\Testing\bin\Debug\net8.0\Testing.dll
+D:\Repo github\HIT_unity\BTVN\Buổi 1\Testing\Testing\bin\Debug\net8.0\Testing.pdb
+D:\Repo github\HIT_unity\BTVN\Buổi 1\Testing\Testing\obj\Debug\net8.0\Testing.dll
+D:\Repo github\HIT_unity\BTVN\Buổi 1\Testing\Testing\obj\Debug\net8.0\refint\Testing.dll
+D:\Repo github\HIT_unity\BTVN\Buổi 1\Testing\Testing\obj\Debug\net8.0\Testing.pdb
+D:\Repo github\HIT_unity\BTVN\Buổi 1\Testing\Testing\obj\Debug\net8.0\Testing.genruntimeconfig.cache
+D:\Repo github\HIT_unity\BTVN\Buổi 1\Testing\Testing\obj\Debug\net8.0\ref\Testing.dll
