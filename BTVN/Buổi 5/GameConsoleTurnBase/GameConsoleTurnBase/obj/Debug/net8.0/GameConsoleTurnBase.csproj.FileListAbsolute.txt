@@ -1,0 +1,15 @@
+D:\Repo github\HIT_unity\BTVN\Buổi 5\GameConsoleTurnBase\GameConsoleTurnBase\obj\Debug\net8.0\GameConsoleTurnBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo github\HIT_unity\BTVN\Buổi 5\GameConsoleTurnBase\GameConsoleTurnBase\obj\Debug\net8.0\GameConsoleTurnBase.AssemblyInfoInputs.cache
+D:\Repo github\HIT_unity\BTVN\Buổi 5\GameConsoleTurnBase\GameConsoleTurnBase\obj\Debug\net8.0\GameConsoleTurnBase.AssemblyInfo.cs
+D:\Repo github\HIT_unity\BTVN\Buổi 5\GameConsoleTurnBase\GameConsoleTurnBase\obj\Debug\net8.0\GameConsoleTurnBase.csproj.CoreCompileInputs.cache
+D:\Repo github\HIT_unity\BTVN\Buổi 5\GameConsoleTurnBase\GameConsoleTurnBase\obj\Debug\net8.0\GameConsoleTurnBase.sourcelink.json
+D:\Repo github\HIT_unity\BTVN\Buổi 5\GameConsoleTurnBase\GameConsoleTurnBase\bin\Debug\net8.0\GameConsoleTurnBase.exe
+D:\Repo github\HIT_unity\BTVN\Buổi 5\GameConsoleTurnBase\GameConsoleTurnBase\bin\Debug\net8.0\GameConsoleTurnBase.deps.json
+D:\Repo github\HIT_unity\BTVN\Buổi 5\GameConsoleTurnBase\GameConsoleTurnBase\bin\Debug\net8.0\GameConsoleTurnBase.runtimeconfig.json
+D:\Repo github\HIT_unity\BTVN\Buổi 5\GameConsoleTurnBase\GameConsoleTurnBase\bin\Debug\net8.0\GameConsoleTurnBase.dll
+D:\Repo github\HIT_unity\BTVN\Buổi 5\GameConsoleTurnBase\GameConsoleTurnBase\bin\Debug\net8.0\GameConsoleTurnBase.pdb
+D:\Repo github\HIT_unity\BTVN\Buổi 5\GameConsoleTurnBase\GameConsoleTurnBase\obj\Debug\net8.0\GameConsoleTurnBase.dll
+D:\Repo github\HIT_unity\BTVN\Buổi 5\GameConsoleTurnBase\GameConsoleTurnBase\obj\Debug\net8.0\refint\GameConsoleTurnBase.dll
+D:\Repo github\HIT_unity\BTVN\Buổi 5\GameConsoleTurnBase\GameConsoleTurnBase\obj\Debug\net8.0\GameConsoleTurnBase.pdb
+D:\Repo github\HIT_unity\BTVN\Buổi 5\GameConsoleTurnBase\GameConsoleTurnBase\obj\Debug\net8.0\GameConsoleTurnBase.genruntimeconfig.cache
+D:\Repo github\HIT_unity\BTVN\Buổi 5\GameConsoleTurnBase\GameConsoleTurnBase\obj\Debug\net8.0\ref\GameConsoleTurnBase.dll

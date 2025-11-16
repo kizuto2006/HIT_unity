@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "D:\\Repo github\\HIT_unity\\BTVN\\Bu\u1ED5i 1\\Testing\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78445282-A5C3-4E9B-953F-D5209E3C82F4}|Testing\\Testing.csproj|d:\\repo github\\hit_unity\\btvn\\bu\u1ED5i 1\\testing\\testing\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78445282-A5C3-4E9B-953F-D5209E3C82F4}|Testing\\Testing.csproj|solutionrelative:testing\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78445282-A5C3-4E9B-953F-D5209E3C82F4}|Testing\\Testing.csproj|d:\\repo github\\hit_unity\\btvn\\bu\u1ED5i 1\\testing\\testing\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78445282-A5C3-4E9B-953F-D5209E3C82F4}|Testing\\Testing.csproj|solutionrelative:testing\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{78445282-A5C3-4E9B-953F-D5209E3C82F4}|Testing\\Testing.csproj|d:\\repo github\\hit_unity\\btvn\\bu\u1ED5i 1\\testing\\testing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78445282-A5C3-4E9B-953F-D5209E3C82F4}|Testing\\Testing.csproj|solutionrelative:testing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,38 +19,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StudentManager.cs",
-              "DocumentMoniker": "D:\\Repo github\\HIT_unity\\BTVN\\Bu\u1ED5i 1\\Testing\\Testing\\StudentManager.cs",
-              "RelativeDocumentMoniker": "Testing\\StudentManager.cs",
-              "ToolTip": "D:\\Repo github\\HIT_unity\\BTVN\\Bu\u1ED5i 1\\Testing\\Testing\\StudentManager.cs",
-              "RelativeToolTip": "Testing\\StudentManager.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T12:24:50.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Repo github\\HIT_unity\\BTVN\\Bu\u1ED5i 1\\Testing\\Testing\\Student.cs",
-              "RelativeDocumentMoniker": "Testing\\Student.cs",
-              "ToolTip": "D:\\Repo github\\HIT_unity\\BTVN\\Bu\u1ED5i 1\\Testing\\Testing\\Student.cs",
-              "RelativeToolTip": "Testing\\Student.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAA3wCsAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T12:20:55.294Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Repo github\\HIT_unity\\BTVN\\Bu\u1ED5i 1\\Testing\\Testing\\Program.cs",
               "RelativeDocumentMoniker": "Testing\\Program.cs",
               "ToolTip": "D:\\Repo github\\HIT_unity\\BTVN\\Bu\u1ED5i 1\\Testing\\Testing\\Program.cs",
               "RelativeToolTip": "Testing\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T11:15:36.738Z",
               "EditorCaption": ""

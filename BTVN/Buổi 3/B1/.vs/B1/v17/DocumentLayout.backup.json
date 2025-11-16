@@ -1,18 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Repo github\\HIT_unity\\BTVN\\Bu\u1ED5i 3\\B1\\",
+  "WorkspaceRootPath": "D:\\Repo github\\HIT_unity\\BTVN\\Bu\u1ED5i 2\\B1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2569AF1C-C62A-4F88-BD09-B43FADA929B5}|B1\\B1.csproj|d:\\repo github\\hit_unity\\btvn\\bu\u1ED5i 3\\b1\\b1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2569AF1C-C62A-4F88-BD09-B43FADA929B5}|B1\\B1.csproj|solutionrelative:b1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2569AF1C-C62A-4F88-BD09-B43FADA929B5}|B1\\B1.csproj|d:\\repo github\\hit_unity\\btvn\\bu\u1ED5i 3\\b1\\b1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2569AF1C-C62A-4F88-BD09-B43FADA929B5}|B1\\B1.csproj|solutionrelative:b1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2569AF1C-C62A-4F88-BD09-B43FADA929B5}|B1\\B1.csproj|d:\\repo github\\hit_unity\\btvn\\bu\u1ED5i 3\\b1\\b1\\congnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2569AF1C-C62A-4F88-BD09-B43FADA929B5}|B1\\B1.csproj|solutionrelative:b1\\congnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF1043F5-83B1-44A5-99FA-B3D517481460}|B1\\B1.csproj|d:\\repo github\\hit_unity\\btvn\\bu\u1ED5i 2\\b1\\b1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1043F5-83B1-44A5-99FA-B3D517481460}|B1\\B1.csproj|solutionrelative:b1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,39 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Repo github\\HIT_unity\\BTVN\\Bu\u1ED5i 3\\B1\\B1\\Program.cs",
+              "DocumentMoniker": "D:\\Repo github\\HIT_unity\\BTVN\\Bu\u1ED5i 2\\B1\\B1\\Program.cs",
               "RelativeDocumentMoniker": "B1\\Program.cs",
-              "ToolTip": "D:\\Repo github\\HIT_unity\\BTVN\\Bu\u1ED5i 3\\B1\\B1\\Program.cs*",
+              "ToolTip": "D:\\Repo github\\HIT_unity\\BTVN\\Bu\u1ED5i 2\\B1\\B1\\Program.cs*",
               "RelativeToolTip": "B1\\Program.cs*",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T08:50:39.726Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CongNhan.cs",
-              "DocumentMoniker": "D:\\Repo github\\HIT_unity\\BTVN\\Bu\u1ED5i 3\\B1\\B1\\CongNhan.cs",
-              "RelativeDocumentMoniker": "B1\\CongNhan.cs",
-              "ToolTip": "D:\\Repo github\\HIT_unity\\BTVN\\Bu\u1ED5i 3\\B1\\B1\\CongNhan.cs",
-              "RelativeToolTip": "B1\\CongNhan.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAA2wDcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T02:51:32.017Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Person.cs",
-              "DocumentMoniker": "D:\\Repo github\\HIT_unity\\BTVN\\Bu\u1ED5i 3\\B1\\B1\\Person.cs",
-              "RelativeDocumentMoniker": "B1\\Person.cs",
-              "ToolTip": "D:\\Repo github\\HIT_unity\\BTVN\\Bu\u1ED5i 3\\B1\\B1\\Person.cs",
-              "RelativeToolTip": "B1\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T15:57:40.101Z",
+              "WhenOpened": "2025-10-31T14:33:57.227Z",
               "EditorCaption": ""
             }
           ]
