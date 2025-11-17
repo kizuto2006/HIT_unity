@@ -1,0 +1,5 @@
+D:\Repo github\HIT_unity\BTVN\Buổi 5\GameConsoleTurnBase\GameConsoleTurnBase\bin\Release\net8.0\app.publish\GameConsoleTurnBase.exe
+D:\Repo github\HIT_unity\BTVN\Buổi 5\GameConsoleTurnBase\GameConsoleTurnBase\bin\Release\net8.0\app.publish\GameConsoleTurnBase.dll
+D:\Repo github\HIT_unity\BTVN\Buổi 5\GameConsoleTurnBase\GameConsoleTurnBase\bin\Release\net8.0\app.publish\GameConsoleTurnBase.deps.json
+D:\Repo github\HIT_unity\BTVN\Buổi 5\GameConsoleTurnBase\GameConsoleTurnBase\bin\Release\net8.0\app.publish\GameConsoleTurnBase.runtimeconfig.json
+D:\Repo github\HIT_unity\BTVN\Buổi 5\GameConsoleTurnBase\GameConsoleTurnBase\bin\Release\net8.0\app.publish\GameConsoleTurnBase.pdb

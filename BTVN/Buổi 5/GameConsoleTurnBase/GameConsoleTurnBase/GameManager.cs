@@ -17,7 +17,7 @@ namespace GameConsoleTurnBase
 
         public void Start()
         {
-            gm = new GridManager(6,6);
+            gm = new GridManager(10,10);
             SpawnE();
 
             while (true)
@@ -27,15 +27,32 @@ namespace GameConsoleTurnBase
                 Console.Clear();
                 Console.WriteLine($"Player: |Hp:{p.Hp}|Range:{p.RangeAtk}|Atk:{p.Dmg}|");
                 Console.WriteLine("---------------------------------------------------------------------------");
-                for (int i = 0; i<es.Count;i++) { Console.WriteLine($"Enemy {i + 1}: |Hp:{es[i].Hp}|Range:{es[i].RangeAtk}|Atk:{es[i].Dmg}|"); }
+                for (int i = 0; i<es.Count;i++) 
+                {
+                    Console.WriteLine($"Enemy {i + 1}: |Hp:{es[i].Hp}|Range:{es[i].RangeAtk}|Atk:{es[i].Dmg}|"); 
+                }
                 Console.WriteLine();
                 gm.DrawGrid();
 
                 if (WinOrLose()) break;
-                    
-                if (Turn == 0) TurnP();
-                else TurnE();
-                Turn = 1 - Turn;
+
+                if (Turn == 0)
+                {
+                    TurnP();
+                    Turn = 1 - Turn;
+                }
+                else
+                {
+                    TurnE();
+                    Turn = 1 - Turn;
+
+
+
+
+
+                }
+
+                
             }
         }
         public void SpawnE()
@@ -51,22 +68,24 @@ namespace GameConsoleTurnBase
             switch(choice)
             {
                 case "1":
-                    p = new Player(0, 0, sword);
+                    p = new Player(0, 0, 30, sword);
                     break;
                 case "2":
-                    p = new Player(0, 0, bow);
+                    p = new Player(0, 0, 15, bow);
                     break;
                 case "3":
-                    p = new Player(0, 0, wand);
+                    p = new Player(0, 0, 20, wand);
                     break;
                 default:
-                    p = new Player(0, 0, gun);
+                    p = new Player(0, 0, 5, gun);
                     break;
             }
 
             es = new List<Enemy>
             {
-                new Enemy(3,5,2,1,10,gm.Width,gm.Height),new Enemy(5,5,4,2,20,gm.Width,gm.Height),new Enemy(0,3,1,3,5,gm.Width,gm.Height)
+                new Enemy(9,9,2,1,15,gm.Width,gm.Height),
+                new Enemy(5,7,4,2,10,gm.Width,gm.Height),
+                new Enemy(0,8,1,3,8,gm.Width,gm.Height)
             };
         }
 

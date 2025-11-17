@@ -16,13 +16,13 @@ namespace GameConsoleTurnBase
 
         public Weapon CurrentWeapon {  get; set; }
 
-        public Player(int posX, int posY, Weapon w)
+        public Player(int posX, int posY,int hp, Weapon w)
         {
             PosX = posX;
             PosY = posY;
             Dmg = w.Dmg;
             RangeAtk = w.RangeAttack;
-            Hp = 10;
+            Hp = hp;
             CurrentWeapon = w;
         }
 

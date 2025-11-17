@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GameConsoleTurnBase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9927c5d82788609efb5556b39cd3cebd078e140")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1431902a631dea88e18021699fa87e35fbe40df1")]
 [assembly: System.Reflection.AssemblyProductAttribute("GameConsoleTurnBase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GameConsoleTurnBase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

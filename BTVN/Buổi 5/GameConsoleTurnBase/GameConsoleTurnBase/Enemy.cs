@@ -32,7 +32,10 @@ namespace GameConsoleTurnBase
             Random rnd = new Random();
             var directions = new (int x, int y)[]
             {
-                (-1,0), (1,0), (0,-1), (0,1)
+                (-1,0),     //Lên 
+                (1,0),      //Xuống
+                (0,-1),     //Trái
+                (0,1)       //Phải
             };
 
             for (int i = 0; i < directions.Length; i++)
@@ -46,6 +49,10 @@ namespace GameConsoleTurnBase
                 {
                     PosX = nX;
                     PosY = nY;
+                    break;
+                }
+                else
+                {
                     break;
                 }
             }
@@ -69,9 +76,9 @@ namespace GameConsoleTurnBase
                     {
                         continue;
                     }
-                    if (grid[nX,nY].Occupant is Enemy e)
+                    if (grid[nX,nY].Occupant is Player p)
                     {
-                        return e;
+                        return p;
                     }
                 }
             }
