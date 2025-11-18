@@ -43,18 +43,15 @@ namespace GameConsoleTurnBase
                 var (x, y) = directions[rnd.Next(directions.Length)];
 
                 int nX = PosX + x;
-                int nY = PosX + y;
+                int nY = PosY + y;
 
-                if(nX >= 0 && nX < mapW && nY >= 0 && nY < mapH)
+                if(nX >= 0 && nX < mapW && nY >= 0 && nY < mapH )
                 {
                     PosX = nX;
                     PosY = nY;
                     break;
                 }
-                else
-                {
-                    break;
-                }
+
             }
         }
 

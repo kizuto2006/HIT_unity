@@ -19,7 +19,5 @@ namespace GameConsoleTurnBase
             Occupant = null;
         }
 
-        public bool IsOccupanted() => Occupant != null;
-
     }
 }

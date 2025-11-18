@@ -45,14 +45,7 @@ namespace GameConsoleTurnBase
                 {
                     TurnE();
                     Turn = 1 - Turn;
-
-
-
-
-
-                }
-
-                
+                }                               
             }
         }
         public void SpawnE()
@@ -102,7 +95,7 @@ namespace GameConsoleTurnBase
         {
             foreach(Enemy e in es)
             {
-                if(e.Hp > 0)
+                if(e.Hp > 0 )
                 {
                     e.Move();
                     e.Attack(gm.Grid);

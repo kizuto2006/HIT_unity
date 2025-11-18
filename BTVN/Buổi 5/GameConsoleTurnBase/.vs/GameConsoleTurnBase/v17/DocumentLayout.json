@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\Repo github\\HIT_unity\\BTVN\\Bu\u1ED5i 5\\GameConsoleTurnBase\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E24D3086-4C13-43AD-9729-5E39152BA7B6}|GameConsoleTurnBase\\GameConsoleTurnBase.csproj|d:\\repo github\\hit_unity\\btvn\\bu\u1ED5i 5\\gameconsoleturnbase\\gameconsoleturnbase\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E24D3086-4C13-43AD-9729-5E39152BA7B6}|GameConsoleTurnBase\\GameConsoleTurnBase.csproj|solutionrelative:gameconsoleturnbase\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E24D3086-4C13-43AD-9729-5E39152BA7B6}|GameConsoleTurnBase\\GameConsoleTurnBase.csproj|d:\\repo github\\hit_unity\\btvn\\bu\u1ED5i 5\\gameconsoleturnbase\\gameconsoleturnbase\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24D3086-4C13-43AD-9729-5E39152BA7B6}|GameConsoleTurnBase\\GameConsoleTurnBase.csproj|solutionrelative:gameconsoleturnbase\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E24D3086-4C13-43AD-9729-5E39152BA7B6}|GameConsoleTurnBase\\GameConsoleTurnBase.csproj|d:\\repo github\\hit_unity\\btvn\\bu\u1ED5i 5\\gameconsoleturnbase\\gameconsoleturnbase\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E24D3086-4C13-43AD-9729-5E39152BA7B6}|GameConsoleTurnBase\\GameConsoleTurnBase.csproj|solutionrelative:gameconsoleturnbase\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E24D3086-4C13-43AD-9729-5E39152BA7B6}|GameConsoleTurnBase\\GameConsoleTurnBase.csproj|d:\\repo github\\hit_unity\\btvn\\bu\u1ED5i 5\\gameconsoleturnbase\\gameconsoleturnbase\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24D3086-4C13-43AD-9729-5E39152BA7B6}|GameConsoleTurnBase\\GameConsoleTurnBase.csproj|solutionrelative:gameconsoleturnbase\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E24D3086-4C13-43AD-9729-5E39152BA7B6}|GameConsoleTurnBase\\GameConsoleTurnBase.csproj|d:\\repo github\\hit_unity\\btvn\\bu\u1ED5i 5\\gameconsoleturnbase\\gameconsoleturnbase\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E24D3086-4C13-43AD-9729-5E39152BA7B6}|GameConsoleTurnBase\\GameConsoleTurnBase.csproj|solutionrelative:gameconsoleturnbase\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E24D3086-4C13-43AD-9729-5E39152BA7B6}|GameConsoleTurnBase\\GameConsoleTurnBase.csproj|d:\\repo github\\hit_unity\\btvn\\bu\u1ED5i 5\\gameconsoleturnbase\\gameconsoleturnbase\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E24D3086-4C13-43AD-9729-5E39152BA7B6}|GameConsoleTurnBase\\GameConsoleTurnBase.csproj|solutionrelative:gameconsoleturnbase\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E24D3086-4C13-43AD-9729-5E39152BA7B6}|GameConsoleTurnBase\\GameConsoleTurnBase.csproj|d:\\repo github\\hit_unity\\btvn\\bu\u1ED5i 5\\gameconsoleturnbase\\gameconsoleturnbase\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24D3086-4C13-43AD-9729-5E39152BA7B6}|GameConsoleTurnBase\\GameConsoleTurnBase.csproj|solutionrelative:gameconsoleturnbase\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24D3086-4C13-43AD-9729-5E39152BA7B6}|GameConsoleTurnBase\\GameConsoleTurnBase.csproj|d:\\repo github\\hit_unity\\btvn\\bu\u1ED5i 5\\gameconsoleturnbase\\gameconsoleturnbase\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24D3086-4C13-43AD-9729-5E39152BA7B6}|GameConsoleTurnBase\\GameConsoleTurnBase.csproj|solutionrelative:gameconsoleturnbase\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,12 +39,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Tile.cs",
+              "DocumentMoniker": "D:\\Repo github\\HIT_unity\\BTVN\\Bu\u1ED5i 5\\GameConsoleTurnBase\\GameConsoleTurnBase\\Tile.cs",
+              "RelativeDocumentMoniker": "GameConsoleTurnBase\\Tile.cs",
+              "ToolTip": "D:\\Repo github\\HIT_unity\\BTVN\\Bu\u1ED5i 5\\GameConsoleTurnBase\\GameConsoleTurnBase\\Tile.cs",
+              "RelativeToolTip": "GameConsoleTurnBase\\Tile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T09:02:12.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Enemy.cs",
               "DocumentMoniker": "D:\\Repo github\\HIT_unity\\BTVN\\Bu\u1ED5i 5\\GameConsoleTurnBase\\GameConsoleTurnBase\\Enemy.cs",
               "RelativeDocumentMoniker": "GameConsoleTurnBase\\Enemy.cs",
               "ToolTip": "D:\\Repo github\\HIT_unity\\BTVN\\Bu\u1ED5i 5\\GameConsoleTurnBase\\GameConsoleTurnBase\\Enemy.cs",
               "RelativeToolTip": "GameConsoleTurnBase\\Enemy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswC8AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-16T13:28:55.485Z",
               "EditorCaption": ""
@@ -53,33 +70,33 @@
               "RelativeDocumentMoniker": "GameConsoleTurnBase\\GridManager.cs",
               "ToolTip": "D:\\Repo github\\HIT_unity\\BTVN\\Bu\u1ED5i 5\\GameConsoleTurnBase\\GameConsoleTurnBase\\GridManager.cs",
               "RelativeToolTip": "GameConsoleTurnBase\\GridManager.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAuwC4AAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-16T13:26:55.31Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Player.cs",
               "DocumentMoniker": "D:\\Repo github\\HIT_unity\\BTVN\\Bu\u1ED5i 5\\GameConsoleTurnBase\\GameConsoleTurnBase\\Player.cs",
               "RelativeDocumentMoniker": "GameConsoleTurnBase\\Player.cs",
               "ToolTip": "D:\\Repo github\\HIT_unity\\BTVN\\Bu\u1ED5i 5\\GameConsoleTurnBase\\GameConsoleTurnBase\\Player.cs",
               "RelativeToolTip": "GameConsoleTurnBase\\Player.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBIAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-15T19:02:45.581Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "GameManager.cs",
               "DocumentMoniker": "D:\\Repo github\\HIT_unity\\BTVN\\Bu\u1ED5i 5\\GameConsoleTurnBase\\GameConsoleTurnBase\\GameManager.cs",
               "RelativeDocumentMoniker": "GameConsoleTurnBase\\GameManager.cs",
               "ToolTip": "D:\\Repo github\\HIT_unity\\BTVN\\Bu\u1ED5i 5\\GameConsoleTurnBase\\GameConsoleTurnBase\\GameManager.cs",
               "RelativeToolTip": "GameConsoleTurnBase\\GameManager.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAIwE8AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-15T18:19:05.074Z",
               "EditorCaption": ""

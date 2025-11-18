@@ -37,14 +37,18 @@ namespace GameConsoleTurnBase
                 tile.Occupant = null;
             }
             Grid[p.PosX, p.PosY].Occupant = p;
-
-            foreach(var enemy in e) { if(enemy.Hp > 0) { Grid[enemy.PosX, enemy.PosY].Occupant = enemy; } }
+            foreach (var enemy in e) 
+            {
+                if(enemy.Hp > 0) 
+                {
+                    Grid[enemy.PosX, enemy.PosY].Occupant = enemy; 
+                } 
+            }
                 
         }
 
         public void DrawGrid()
         {
-            /*Console.SetCursorPosition(0, 0);*/
             for (var y = 0; y < Height;y++)
             {
                 for(var  x = 0; x < Width;x++)
