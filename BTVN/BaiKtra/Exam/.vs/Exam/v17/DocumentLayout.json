@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repo github\\HIT_unity\\BTVN\\BaiKtra\\Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{307A6BAE-D338-4470-84B0-77155C2664AE}|Exam\\Exam.csproj|d:\\repo github\\hit_unity\\btvn\\baiktra\\exam\\exam\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{307A6BAE-D338-4470-84B0-77155C2664AE}|Exam\\Exam.csproj|solutionrelative:exam\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{307A6BAE-D338-4470-84B0-77155C2664AE}|Exam\\Exam.csproj|d:\\repo github\\hit_unity\\btvn\\baiktra\\exam\\exam\\gameentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{307A6BAE-D338-4470-84B0-77155C2664AE}|Exam\\Exam.csproj|solutionrelative:exam\\gameentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{307A6BAE-D338-4470-84B0-77155C2664AE}|Exam\\Exam.csproj|d:\\repo github\\hit_unity\\btvn\\baiktra\\exam\\exam\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{307A6BAE-D338-4470-84B0-77155C2664AE}|Exam\\Exam.csproj|solutionrelative:exam\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{307A6BAE-D338-4470-84B0-77155C2664AE}|Exam\\Exam.csproj|d:\\repo github\\hit_unity\\btvn\\baiktra\\exam\\exam\\toibingu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{307A6BAE-D338-4470-84B0-77155C2664AE}|Exam\\Exam.csproj|solutionrelative:exam\\toibingu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Toibingu.cs",
+              "DocumentMoniker": "D:\\Repo github\\HIT_unity\\BTVN\\BaiKtra\\Exam\\Exam\\Toibingu.cs",
+              "RelativeDocumentMoniker": "Exam\\Toibingu.cs",
+              "ToolTip": "D:\\Repo github\\HIT_unity\\BTVN\\BaiKtra\\Exam\\Exam\\Toibingu.cs",
+              "RelativeToolTip": "Exam\\Toibingu.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwCkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T11:54:58.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\Repo github\\HIT_unity\\BTVN\\BaiKtra\\Exam\\Exam\\Enemy.cs",
+              "RelativeDocumentMoniker": "Exam\\Enemy.cs",
+              "ToolTip": "D:\\Repo github\\HIT_unity\\BTVN\\BaiKtra\\Exam\\Exam\\Enemy.cs",
+              "RelativeToolTip": "Exam\\Enemy.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T11:52:12.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Repo github\\HIT_unity\\BTVN\\BaiKtra\\Exam\\Exam\\Player.cs",
+              "RelativeDocumentMoniker": "Exam\\Player.cs",
+              "ToolTip": "D:\\Repo github\\HIT_unity\\BTVN\\BaiKtra\\Exam\\Exam\\Player.cs",
+              "RelativeToolTip": "Exam\\Player.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T11:46:51.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameEntity.cs",
+              "DocumentMoniker": "D:\\Repo github\\HIT_unity\\BTVN\\BaiKtra\\Exam\\Exam\\GameEntity.cs",
+              "RelativeDocumentMoniker": "Exam\\GameEntity.cs",
+              "ToolTip": "D:\\Repo github\\HIT_unity\\BTVN\\BaiKtra\\Exam\\Exam\\GameEntity.cs",
+              "RelativeToolTip": "Exam\\GameEntity.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T11:43:00.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

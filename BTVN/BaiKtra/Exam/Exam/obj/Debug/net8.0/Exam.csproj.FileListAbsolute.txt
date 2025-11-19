@@ -1,0 +1,15 @@
+D:\Repo github\HIT_unity\BTVN\BaiKtra\Exam\Exam\obj\Debug\net8.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo github\HIT_unity\BTVN\BaiKtra\Exam\Exam\obj\Debug\net8.0\Exam.AssemblyInfoInputs.cache
+D:\Repo github\HIT_unity\BTVN\BaiKtra\Exam\Exam\obj\Debug\net8.0\Exam.AssemblyInfo.cs
+D:\Repo github\HIT_unity\BTVN\BaiKtra\Exam\Exam\obj\Debug\net8.0\Exam.csproj.CoreCompileInputs.cache
+D:\Repo github\HIT_unity\BTVN\BaiKtra\Exam\Exam\obj\Debug\net8.0\Exam.sourcelink.json
+D:\Repo github\HIT_unity\BTVN\BaiKtra\Exam\Exam\bin\Debug\net8.0\Exam.exe
+D:\Repo github\HIT_unity\BTVN\BaiKtra\Exam\Exam\bin\Debug\net8.0\Exam.deps.json
+D:\Repo github\HIT_unity\BTVN\BaiKtra\Exam\Exam\bin\Debug\net8.0\Exam.runtimeconfig.json
+D:\Repo github\HIT_unity\BTVN\BaiKtra\Exam\Exam\bin\Debug\net8.0\Exam.dll
+D:\Repo github\HIT_unity\BTVN\BaiKtra\Exam\Exam\bin\Debug\net8.0\Exam.pdb
+D:\Repo github\HIT_unity\BTVN\BaiKtra\Exam\Exam\obj\Debug\net8.0\Exam.dll
+D:\Repo github\HIT_unity\BTVN\BaiKtra\Exam\Exam\obj\Debug\net8.0\refint\Exam.dll
+D:\Repo github\HIT_unity\BTVN\BaiKtra\Exam\Exam\obj\Debug\net8.0\Exam.pdb
+D:\Repo github\HIT_unity\BTVN\BaiKtra\Exam\Exam\obj\Debug\net8.0\Exam.genruntimeconfig.cache
+D:\Repo github\HIT_unity\BTVN\BaiKtra\Exam\Exam\obj\Debug\net8.0\ref\Exam.dll
